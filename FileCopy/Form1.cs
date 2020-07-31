@@ -47,7 +47,36 @@ namespace FileCopy
             {
                 MessageBox.Show(ex.Message);
             }
-                
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FileStream fs = default(FileStream);
+            //byte[] bteRead = new byte[2048];
+            byte[] bteRead = new byte[2048];
+            long intByte = 0;
+            try
+            {
+                if (radioButton1.Checked)
+                {
+                    fs = new FileStream(textBox1.Text, FileMode.Open, FileAccess.Read);
+                }
+                else if (radioButton2.Checked)
+                {
+                    fs = new FileStream(textBox2.Text, FileMode.Open, FileAccess.Read);
+                }
+                intByte = fs.Length;
+                fs.Read(bteRead, 0, int.Parse(intByte.ToString()));
+                textBox3.Text = Encoding.ASCII.GetString(bteRead);
+                fs.Close();
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
         }
     }
 }
