@@ -1,0 +1,10 @@
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\bin\Debug\AsyncCallbackDemo.exe.config
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\bin\Debug\AsyncCallbackDemo.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\bin\Debug\AsyncCallbackDemo.pdb
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\obj\Debug\AsyncCallbackDemo.csprojAssemblyReference.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\obj\Debug\AsyncCallbackDemo.Form1.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\obj\Debug\AsyncCallbackDemo.Properties.Resources.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\obj\Debug\AsyncCallbackDemo.csproj.GenerateResource.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\obj\Debug\AsyncCallbackDemo.csproj.CoreCompileInputs.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\obj\Debug\AsyncCallbackDemo.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\AsyncCallbackDemo\obj\Debug\AsyncCallbackDemo.pdb
