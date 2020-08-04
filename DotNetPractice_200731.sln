@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPractice_200731.Conso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCopy", "FileCopy\FileCopy.csproj", "{79B518AA-5257-49CB-96C2-FD4AF6024F83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryDemo", "MemoryDemo\MemoryDemo.csproj", "{EADC50D1-332B-4F11-B9EC-40D43314FA77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{79B518AA-5257-49CB-96C2-FD4AF6024F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79B518AA-5257-49CB-96C2-FD4AF6024F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79B518AA-5257-49CB-96C2-FD4AF6024F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADC50D1-332B-4F11-B9EC-40D43314FA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADC50D1-332B-4F11-B9EC-40D43314FA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADC50D1-332B-4F11-B9EC-40D43314FA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADC50D1-332B-4F11-B9EC-40D43314FA77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

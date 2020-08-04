@@ -1,0 +1,10 @@
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\bin\Debug\MemoryDemo.exe.config
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\bin\Debug\MemoryDemo.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\bin\Debug\MemoryDemo.pdb
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\obj\Debug\MemoryDemo.csprojAssemblyReference.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\obj\Debug\MemoryDemo.Form1.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\obj\Debug\MemoryDemo.Properties.Resources.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\obj\Debug\MemoryDemo.csproj.GenerateResource.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\obj\Debug\MemoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\obj\Debug\MemoryDemo.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\MemoryDemo\obj\Debug\MemoryDemo.pdb

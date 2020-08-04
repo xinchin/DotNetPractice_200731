@@ -1,0 +1,8 @@
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\BufferDemo\bin\Debug\BufferDemo.exe.config
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\BufferDemo\bin\Debug\BufferDemo.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\BufferDemo\bin\Debug\BufferDemo.pdb
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\BufferDemo\obj\Debug\BufferDemo.Properties.Resources.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\BufferDemo\obj\Debug\BufferDemo.csproj.GenerateResource.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\BufferDemo\obj\Debug\BufferDemo.csproj.CoreCompileInputs.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\BufferDemo\obj\Debug\BufferDemo.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\BufferDemo\obj\Debug\BufferDemo.pdb
