@@ -1,0 +1,7 @@
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\console_0813\bin\Debug\console_0813.exe.config
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\console_0813\bin\Debug\console_0813.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\console_0813\bin\Debug\console_0813.pdb
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\console_0813\obj\Debug\console_0813.csprojAssemblyReference.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\console_0813\obj\Debug\console_0813.csproj.CoreCompileInputs.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\console_0813\obj\Debug\console_0813.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\console_0813\obj\Debug\console_0813.pdb

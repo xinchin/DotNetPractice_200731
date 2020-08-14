@@ -1,0 +1,15 @@
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\bin\Debug\Test_0805.exe.config
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\bin\Debug\Test_0805.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\bin\Debug\Test_0805.pdb
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.csprojAssemblyReference.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.Form1.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.Properties.Resources.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.csproj.GenerateResource.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.csproj.CoreCompileInputs.cache
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.exe
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.pdb
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.Form2.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.Form3.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.Form4.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.Form5.resources
+C:\Users\nelson.huang\source\repos\DotNetPractice_200731\Test_0805\obj\Debug\Test_0805.Form6.resources
